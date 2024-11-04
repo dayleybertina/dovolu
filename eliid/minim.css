@@ -1,0 +1,4 @@
+.custom-alignment {
+  display: flex;
+  justify-content: space-between; /* or any other alignment value */
+}
